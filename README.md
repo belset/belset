@@ -56,7 +56,8 @@ Professionally, I'm a full-stack developer and there is a grasp the idea describ
 </p>
 
 ### Socials
-<div id="badges">
+
+<div>
   <a href="https://www.linkedin.com/in/ilya-rudenka-398877203" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
@@ -66,8 +67,9 @@ If you like my activities, it may be great to give me a ⭐ and/or share this li
 
 The projects are developed and supported by [@belset](https://github.com/belset) for free in spare 
 time, so that financial help keeps the projects to be going successfully.
-
-<a href="https://www.buymeacoffee.com/belset"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>.
+<div>
+  <a href="https://www.buymeacoffee.com/belset" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+</div>
 
 ---
 
