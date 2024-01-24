@@ -3,14 +3,14 @@
 
 Hi there 👋,
 
-Professionally, I'm a fullstack developer and there is a grasp the idea describing yourself is not so interesting for people but traditionally -
+Professionally, I'm a full-stack developer and there is a grasp the idea describing yourself is not so interesting for people but traditionally -
 
 - 🌍 I lived in different countries but now I am located in Belarus...
 - 🖥️ I have no my personal websites, blogs, etc. because such activities take up too much time.
 - 📫 But you can reach me via  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-rudenka-398877203)
-- 🚀 I'm currently working on several ideas but there is one perspective pet-project [FlatValidator](http://github.com/belset/FlatValidator).
-- 👯 I'm not looking for any collaboration but feel yourself free to write me. Maybe, I'll even have a possibility to answer.
-- ⚡ No any fun fact, that's it.
+- 👯 I'm not looking for any collaboration but feel yourself free to write me.
+- 🚀 I'm currently working on several ideas but there is one promising pet-project [`FlatValidator`](http://github.com/belset/FlatValidator) that I'm excited about.
+- ⚡ The fun fact is that my cat wants to speak English. Are you asking why it's so? But why not?
 
 
 ### Skills
@@ -23,8 +23,8 @@ Professionally, I'm a fullstack developer and there is a grasp the idea describi
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/skills/borland-delphi.svg" width="36" height="36" alt="Borland Delphi" /></a>
+  <a href="https://devdocs.io/php/" target="_blank" rel="noreferrer"><img src="icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-  <a href="https://devdocs.io/php/" target="_blank" rel="noreferrer"><img src="icons/skills/php-colored.svg" width="36" height="36" alt="Go" /></a>
 </p>  
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="icons/skills/html5-colored.svg" height="36" alt="HTML5" /></a>
@@ -52,9 +52,26 @@ Professionally, I'm a fullstack developer and there is a grasp the idea describi
 <p align="left">  
   <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="icons/skills/Azure-Light.svg" width="36" height="36" alt="Azure" /></a>
   <a href="https://www.aws.com/" target="_blank" rel="noreferrer"><img src="icons/skills/AWS-Light.svg" width="36" height="36" alt="AWS" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p>
 
 ### Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/ilya-rudenka-398877203" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+
+### Supporting the project
+
+If you like my activities, it may be great to give me a ⭐ and/or share this link with friends 🤗
+
+The projects are developed and supported by [@belset](https://github.com/belset) for free in spare 
+time, so that financial help keeps the projects to be going successfully.
+
+<a href="https://www.buymeacoffee.com/belset"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>.
+
+---
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=belset&theme=dark&background=000000" width="100px" alt="Github Streak Stats"/>
+</p>
+
