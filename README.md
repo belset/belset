@@ -72,6 +72,6 @@ time, so that financial help keeps the projects to be going successfully.
 ---
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=belset&theme=dark&background=000000" width="100px" alt="Github Streak Stats"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=belset&theme=dark&background=000000" width="500" height="auto" alt="Github Streak Stats"/>
 </p>
 
