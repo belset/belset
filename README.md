@@ -6,11 +6,11 @@ Hi there 👋,
 Professionally, I'm a full-stack developer and there is a grasp the idea describing yourself is not so interesting for people but traditionally -
 
 - 🌍 I lived in different countries but now I am located in Belarus...
-- 🖥️ I have no my personal websites, blogs, etc. because such activities take up too much time.
-- 📫 But you can reach me via  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-rudenka-398877203)
-- 👯 I'm not looking for any collaboration but feel yourself free to write me.
-- 🚀 I'm currently working on several ideas but there is one promising pet-project [`FlatValidator`](http://github.com/belset/FlatValidator) that I'm excited about.
-- ⚡ The fun fact is that my cat wants to speak English. Are you asking why it's so? But why not?
+- 🖥️ I have no my personal websites, blogs, etc. I prefуr to write codes.
+- 📫 Нou can reach me via  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-rudenka-398877203)
+- 👯 I'm not looking for any collaboration right now but feel yourself free to contact me.
+- 🚀 Currently I'm working on several ideas but there is one promising pet-project [`FlatValidator`](http://github.com/belset/FlatValidator) that I'm excited about.
+- 🧠 Budda said: "We are what we think. With our thoughts, we make the world."
 
 
 ### Skills
