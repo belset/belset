@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-Professionally, I'm a full-stack developer and there is a grasp the idea describing yourself is not so interesting for people but traditionally -
+Professionally, I'm a full-stack developer and there is a grasp the idea describing yourself is not so interesting for people but traditionally
 
 - 🌍 I lived in different countries but now I am located in Belarus...
 - 🖥️ I have no my personal websites, blogs, etc. I prefуr to write codes.
