@@ -2,14 +2,14 @@
 
 Hi there 👋
 
-Professionally, I'm a full-stack developer and there is a grasp the idea describing yourself is not so interesting for people but traditionally
+Professionally, I like to position myself as a full-service developer and focusing on the grasp that people are not so interested in reading long text about another person which they do not know, just a bit of short points
 
-- 🌍 I lived in different countries but now I am located in Belarus...
-- 🖥️ I have no my personal websites, blogs, etc. I prefуr to write codes.
-- 📫 Нou can reach me via [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-rudenka-398877203)
-- 👯 I'm not looking for any collaboration right now but feel yourself free to contact me.
-- 🚀 Currently I'm working on several ideas but there is one promising pet-project [`FlatValidator`](http://github.com/belset/FlatValidator) that I'm excited about.
-- 🧠 Budda said: "We are what we think. With our thoughts, we make the world."
+- 🌍 I lived in different countries but now I am locating in Belarus or Kyrgyzstan, moving...
+- 🖥️ I have no my personal websites, blogs, etc. I prefer to spend my time to write useful codes.
+- 📫 But I can be reached via [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-rudenka-398877203)
+- 👯 At present I have no goals requested any collaboration but I am ready to hear about any interesting activities.
+- 🚀 Currently I'm focusing on several ideas, one of which is a promising pet-project [`FlatValidator`](http://github.com/belset/FlatValidator) that keeps my attention more than others.
+- 🧠 Budda said: "We are what we think. With our thoughts, we make the world". It sounds attractively but how can we use it?
 
 
 ### Skills
@@ -64,7 +64,7 @@ Professionally, I'm a full-stack developer and there is a grasp the idea describ
 
 ### Supporting the project
 
-If you like my activities, it may be great to give me a ⭐ and/or share this link with friends 🤗
+If you like my activities, it may be great to give me a ⭐ and/or share this link 🤗
 
 The projects are developed and supported by [@belset](https://github.com/belset) for free in spare 
 time, so that financial help keeps the projects to be going successfully.
