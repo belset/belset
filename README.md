@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-Professionally, I like to position myself as a full-service developer and focusing on the grasp that people are not so interested in reading long text about another person which they do not know, just a bit of short points
+Professionally, I like to be mentioned as a full-service developer and being in the grasp people are not so interested in reading long text about another person whom they do not know, just short points are
 
 - 🌍 I lived in different countries but now I am locating in Belarus or Kyrgyzstan, moving...
 - 🖥️ I have no my personal websites, blogs, etc. I prefer to spend my time to write useful codes.
