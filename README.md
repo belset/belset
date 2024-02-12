@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-Professionally, I like to be mentioned as a full-service developer and being in the grasp people are not so interested in reading long text about another person whom they do not know, just short points are
+Professionally, I have been acting as a tech leader, software architect, spec-writer, db-administrator, devtools-maker, etc. But I like to be mentioned as a full-stack developer because the source code development is the most creative process of all of the above.
 
 - 🌍 I lived in different countries but now I am locating in Belarus or Kyrgyzstan, moving...
 - 🖥️ I have no my personal websites, blogs, etc. I prefer to spend my time to write useful codes.
