@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-Professionally, I have been acting as a tech leader, software architect, spec-writer, db-administrator, devtools-maker, etc. But I like to be mentioned as a full-stack developer because the source code development is the most creative process of all of the above.
+Professionally, I have been acting as a tech leader, software architect, spec-writer, db-administrator, devtool-maker, etc. But I like to be mentioned as a full-stack developer because the source code development is the most creative process of all of the above.
 
 - 🌍 I lived in different countries but now I am locating in Belarus or Kyrgyzstan, moving...
 - 🖥️ I have no my personal websites, blogs, etc. I prefer to spend my time to write useful codes.
@@ -23,7 +23,9 @@ Professionally, I have been acting as a tech leader, software architect, spec-wr
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/skills/borland-delphi.svg" width="36" height="36" alt="Borland Delphi" /></a>
   <a href="https://devdocs.io/php/" target="_blank" rel="noreferrer"><img src="icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+  <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=128&id=oYurBxPSCxXc&format=png" width="36" height="36" alt="Assembly x86" /></a>
+  
+  <!-- <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> -->
 </p>
 <p align="left">
   <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="icons/skills/microsoft-sql-server.svg" height="36" alt="MS SQL Server" /></a>
