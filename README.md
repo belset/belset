@@ -71,12 +71,9 @@ If you like my activities, it may be great to give me a ⭐ and/or share this li
 The projects are developed and supported by [@belset](https://github.com/belset) for free in spare 
 time, so that financial help keeps the projects to be going successfully.
 <div>
-  <a href="https://www.buymeacoffee.com/belset" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+  <a href="https://www.buymeacoffee.com/belset" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
 </div>
 
 ---
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=belset&theme=dark&background=000000" width="500" height="auto" alt="Github Streak Stats"/>
-</p>
 
